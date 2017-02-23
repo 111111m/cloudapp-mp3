@@ -22,6 +22,7 @@ public class TablePartC{
    public static void main(String[] args) throws IOException {
 
 	//TODO      
+	System.out.println("Inserted data");   
    }
 }
 

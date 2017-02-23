@@ -21,7 +21,11 @@ public class TablePartA{
 
    public static void main(String[] args) throws IOException {
 
-	//TODO      
+	//TODO
+	System.out.println("Created table powers");  
+	
+	//TODO
+	System.out.println("Created table food");  
    }
 }
 

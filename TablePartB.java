@@ -21,7 +21,11 @@ public class TablePartB{
 
    public static void main(String[] args) throws IOException {
 
-	//TODO      
+	//TODO    
+	
+	System.out.println("Found tables:");    
+	
+	//TODO: print the list
    }
 }
 
