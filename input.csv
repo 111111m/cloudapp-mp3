@@ -1,5 +1,5 @@
-row key,personal,,professional,,custome
-,hero,power,name,xp,"color					"
+row key,personal,,professional,,custom
+,hero,power,name,xp,color
 row1,yes,fly,batman,100,black
 row2,yes,run,superman,10,red
 row3,no,eat,bananaman,30,yellow
